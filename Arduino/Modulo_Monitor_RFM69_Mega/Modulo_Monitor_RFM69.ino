@@ -68,7 +68,7 @@ byte FuerteChar[8] = {
   B00101,
   B10101,
   B10101
-};
+}; 
 
 //Definicion de los parametros de configuracion de el nodo
 // CAMBIAR ESTO PARA CADA MODULO!
