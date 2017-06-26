@@ -35,7 +35,7 @@ byte MuertaChar[8] = {
   B00100,
   B01010,
   B10001
-};
+}; 
 
 byte PobreChar[8] = {
   B00000,
